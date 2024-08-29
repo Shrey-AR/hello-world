@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 This utorial focuses mainly on Git and using GitHub as its remote.
 
 It now includes steps for GitHub
+
+This is to demonstrate git push from local to GitHub
